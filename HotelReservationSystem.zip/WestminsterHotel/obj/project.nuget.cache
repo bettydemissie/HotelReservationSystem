@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+igRmx86lXRbDS9z1Oz3WSXcIADby0GNK2ZKYEHMKpD8zHZbo6VqU7zSnCYrUdRIU+k4/v3Dl1/Khib9iR6NGg==",
+  "success": true,
+  "projectFilePath": "/Users/bettydemissie/Desktop/w1722493_Bethelham_Demissie.zip/WestminsterHotel/WestminsterHotel.csproj",
+  "expectedPackageFiles": [
+    "/Users/bettydemissie/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/bettydemissie/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/bettydemissie/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
